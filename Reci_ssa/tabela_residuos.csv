@@ -1,0 +1,39 @@
+tipo,nome,quantidade,data,local
+Vidro,Copo de vidro,11,23-11-2024 14:00:00,ReciclaVidro Paulista
+Plástico,Sacolas plásticas,30,23-11-2024 15:10:22,PlásticoRecicla SP
+Metais,Ferro velho,20,23-11-2024 16:05:33,ReciclaMetais Norte
+Eletrônicos,Telefone celular,5,23-11-2024 16:45:00,Centro de Reciclagem Eletrônica
+Papel,Caixa de papelão,40,23-11-2024 17:30:20,PapelRecicla Centro
+Plástico,Embalagens de shampoo,12,23-11-2024 18:00:00,ReciclaPlástico Paulista
+Vidro,Vidros de conserva,9,23-11-2024 18:15:40,ReciclaVidro Sul
+Metais,Lâmpadas queimadas,8,23-11-2024 18:40:00,ReciclaLuz Metal
+Vidro,Garrafa de vidro,8,22-11-2024 05:08:57,ReciclaVida Centro
+Vidro,Garrafa de Vidro,6,22-11-2024 20:04:30,EcoVidro Reciclagem
+Plástico,Garrafa de Refrigerante,7,22-11-2024 20:05:08,ReciclaPlástico Centro
+Eletrônicos,Pilha palito,12,22-11-2024 20:55:00,ReciclaTech
+Metais,Parafuso,14,22-11-2024 19:26:09,ReciclaMetais
+Plástico,Garrafa pet,6,22-11-2024 19:35:58,Centro ReciclaPlástico
+Eletrônicos,Placa mãe,4,22-11-2024 20:31:36,ReciclaEletrônicos
+Papel,Teste,5,23-11-2024 23:43:26,ReciclaPapel
+Vidro,Frascos de vidro,10,23-11-2024 08:00:00,ReciclaVida Centro
+Metais,Latas de alumínio,15,23-11-2024 09:15:30,ReciclaMetais Central
+Plástico,Saco plástico,8,23-11-2024 10:20:45,EcoPlástico Reciclagem
+Eletrônicos,Computador velho,3,23-11-2024 11:30:12,ReciclaTech Brasil
+Papel,Jornais antigos,20,23-11-2024 12:40:00,ReciclaPapel Centro
+Vidro,Copo de vidro,11,23-11-2024 14:00:00,ReciclaVidro Paulista
+Plástico,Sacolas plásticas,30,23-11-2024 15:10:22,PlásticoRecicla SP
+Metais,Ferro velho,20,23-11-2024 16:05:33,ReciclaMetais Norte
+Eletrônicos,Telefone celular,5,23-11-2024 16:45:00,Centro de Reciclagem Eletrônica
+Papel,Caixa de papelão,40,23-11-2024 17:30:20,PapelRecicla Centro
+Plástico,Embalagens de shampoo,12,23-11-2024 18:00:00,ReciclaPlástico Paulista
+Vidro,Vidros de conserva,9,23-11-2024 18:15:40,ReciclaVidro Sul
+Metais,Lâmpadas queimadas,8,23-11-2024 18:40:00,ReciclaLuz Metal
+Eletrônicos,Fios elétricos,15,23-11-2024 19:00:50,ReciclaTech Norte
+Papel,Revistas antigas,25,23-11-2024 19:30:00,ReciclaPapel Sul
+Plástico,Garrafa de detergente,14,23-11-2024 19:50:22,ReciclaPlástico ABC
+Vidro,Vidro de perfume,3,23-11-2024 20:15:40,ReciclaVidro Centro
+Eletrônicos,Televisor velho,2,23-11-2024 20:40:00,ReciclaTech Oeste
+Metais,Chapinha de cabelo,5,23-11-2024 21:00:12,ReciclaMetais Leste
+Papel,Caderno escolar,10,23-11-2024 21:30:00,ReciclaPapel Oeste
+Papel,Jornal velho,7,25-11-2024 22:33:49,Local Teste
+Eletrônicos,Pilha duracel,4,07-12-2024 01:40:25,Recicla EletronicosSSa
